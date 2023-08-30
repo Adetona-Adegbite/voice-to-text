@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/voice-to-text/static/css/main.e9037767.css",
+    "main.js": "/voice-to-text/static/js/main.66a531b4.js",
+    "static/media/logo.svg": "/voice-to-text/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/voice-to-text/index.html",
+    "main.e9037767.css.map": "/voice-to-text/static/css/main.e9037767.css.map",
+    "main.66a531b4.js.map": "/voice-to-text/static/js/main.66a531b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9037767.css",
+    "static/js/main.66a531b4.js"
+  ]
+}
